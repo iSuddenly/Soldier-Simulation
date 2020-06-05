@@ -58,3 +58,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Custom Files(Sprites, Sounds, Lines, etc...)
+Resources/
+04.Sprites_BG/
+04.Sprites_Object/
+04.Sprites_Soldier/
+04.Sprites_UI/
+06.Sound/
+07.Files/
+Resources/
